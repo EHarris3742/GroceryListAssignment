@@ -1,0 +1,52 @@
+html{
+    background-color: rgb(255, 205, 90);
+}
+
+
+h2{
+background-color: palegreen;
+font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+  display: block;
+  align-items: center;
+  width: 61%;
+  padding: 20px;
+  font-size: 30px;
+  margin-left: 20px;
+  
+}
+
+.pantryitems{
+border-spacing: 20px;
+}
+
+li{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+}
+
+td {
+  width: 10%;
+  font-size: 20px
+}
+
+button{
+    font-size: 30px;
+    display: block;
+    padding: 10px 32px;
+    margin-left: 20px;
+    background-color: palegreen;
+}
+    
+
+img {
+  width: 100%;
+  height: 25vh;
+}
+
+
+
+h3 {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+  text-align: center;
+}
